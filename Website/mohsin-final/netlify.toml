@@ -1,9 +1,0 @@
-# Netlify deployment config — keeps the deploy settings explicit
-# instead of relying on Netlify's auto-detect guesses.
-
-[build]
-  publish = "."
-
-# Form submissions are detected automatically because index.html
-# contains a static <form name="booking" data-netlify="true"> —
-# no functions or extra config needed for that.
