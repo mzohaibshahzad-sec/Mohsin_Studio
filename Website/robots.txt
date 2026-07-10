@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mohsinstudiopk.netlify.app/sitemap.xml
